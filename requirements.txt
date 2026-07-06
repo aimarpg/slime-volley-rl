@@ -1,0 +1,10 @@
+pyglet
+gym
+gymnasium
+torch
+numpy
+pygame
+stable-baselines3
+imitation
+opencv-python
+shimmy
